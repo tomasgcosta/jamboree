@@ -1,0 +1,11 @@
+export const Card = (props) => {
+    return (
+        <svg width="22" height="19" viewBox="0 0 22 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M1 5.87776H20.511" stroke="#ADAFBB" strokeWidth="1.46333" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+        <path d="M4.90234 13.6822H6.85345" stroke="#ADAFBB" strokeWidth="1.46333" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+        <path d="M9.29199 13.6822H13.1942" stroke="#ADAFBB" strokeWidth="1.46333" strokeMiterlimit="10" strokeLinecap="round" strokeLinejoin="round"/>
+        <path d="M5.33145 1H16.1698C19.6428 1 20.511 1.85849 20.511 5.28267V13.292C20.511 16.7162 19.6428 17.5746 16.1796 17.5746H5.33145C1.86824 17.5844 1 16.7259 1 13.3017V5.28267C1 1.85849 1.86824 1 5.33145 1Z" stroke="#ADAFBB" strokeWidth="1.46333" strokeLinecap="round" strokeLinejoin="round"/>
+        </svg>
+    );
+  };
+  

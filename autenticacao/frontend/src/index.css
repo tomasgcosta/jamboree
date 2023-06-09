@@ -1,0 +1,129 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@font-face {
+  font-family: "SFDisplay";
+  src: url("./fonts/SFDisplay.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayBlack";
+  src: url("./fonts/SFDisplayBlack.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayBlackItalic";
+  src: url("./fonts/SFDisplayBlackItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayBold";
+  src: url("./fonts/SFDisplayBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayBoldItalic";
+  src: url("./fonts/SFDisplayBoldItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayHeavy";
+  src: url("./fonts/SFDisplayHeavy.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayHeavyItalic";
+  src: url("./fonts/SFDisplayHeavyItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayItalic";
+  src: url("./fonts/SFDisplayItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayLight";
+  src: url("./fonts/SFDisplayLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayLightItalic";
+  src: url("./fonts/SFDisplayLightItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayMedium";
+  src: url("./fonts/SFDisplayMedium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayMediumItalic";
+  src: url("./fonts/SFDisplayMediumItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplaySemibold";
+  src: url("./fonts/SFDisplaySemibold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplaySemiboldItalic";
+  src: url("./fonts/SFDisplaySemiboldItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayThin";
+  src: url("./fonts/SFDisplayThin.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayThinItalic";
+  src: url("./fonts/SFDisplayThinItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayUltralight";
+  src: url("./fonts/SFDisplayUltalight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFDisplayUltralightItalic";
+  src: url("./fonts/SFDisplayUltralightItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFProBold";
+  src: url("./fonts/SFProBold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFProBoldItalic";
+  src: url("./fonts/SFProBoldItalic.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SFProHeavy";
+  src: url("./fonts/SFProHeavy.otf") format("opentype");
+}
+
+input[type="date"]::-webkit-calendar-picker-indicator {
+  background: transparent;
+  bottom: 0;
+  color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: auto;
+}
+
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #232c33;
+}

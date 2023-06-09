@@ -1,0 +1,8 @@
+export const Email =(props) => {
+    return (
+<svg width="23" height="23" viewBox="0 0 23 23" fill={props.fill} xmlns="http://www.w3.org/2000/svg">
+<path d="M17.9952 6.09771L14.0852 9.24579C13.3453 9.82592 12.308 9.82592 11.5681 9.24579L7.62451 6.09771" stroke="#ADAFBB" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+<path fillRule="evenodd" clipRule="evenodd" d="M8.48055 1H17.1228C18.3689 1.01398 19.5549 1.54077 20.4047 2.45769C21.2544 3.3746 21.6937 4.60161 21.6201 5.85294V11.8368C21.6937 13.0882 21.2544 14.3152 20.4047 15.2321C19.5549 16.149 18.3689 16.6758 17.1228 16.6898H8.48055C5.80397 16.6898 4 14.5123 4 11.8368V5.85294C4 3.17749 5.80397 1 8.48055 1Z" stroke="#ADAFBB" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
+</svg>
+    )
+};
