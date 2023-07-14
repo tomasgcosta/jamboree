@@ -2,8 +2,8 @@
 B4F Final Project developed with [ClaudioCunhaDev](https://github.com/ClaudioCunhaDev)
 
 ## This project was built with:
-- [React.js]()
-- [Express.js]()
+- [React.js](https://react.dev/)
+- [Express.js](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/)
 - [Tailwind](https://tailwindcss.com/)
 
