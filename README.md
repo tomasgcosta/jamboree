@@ -24,5 +24,6 @@ We think we did, based on our experience at the time.
 
 # Updates
 In the future, should we decide to pick this up again, a couple of things we thought about changing could be:
-- Use a checkout API that deals with money instead of the barebones idea we could come up with at the time.
+- Create our own caroussel instead of using Splide JS as it wasn't as customizeable as we expected.
+- Fix the memory issues related to algorythm speed.
 - Transition to Next.js as it faster.
